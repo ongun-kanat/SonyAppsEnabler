@@ -31,7 +31,7 @@ For more info, please check the [original thread here.](https://forum.xda-develo
 
 ### Credits:
    * Sony for providing the apps.
-   * [A.R.I.S.E. Sound Systems](https://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709) and  [XOSP Community](https://xosp.org/)for essential files.
+   * [A.R.I.S.E. Sound Systems](https://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709) and [XOSP Community](https://xosp.org/) for essential files.
    * darjwx, shavendum, Araib93, flash- and TechnoSparks for assisting Zenith.
    * Zenith for originally creating this package.
    * topjohnwu for creating Magisk.

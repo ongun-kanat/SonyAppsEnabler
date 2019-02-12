@@ -1,7 +1,8 @@
+
 id=SonyApps
 name=Sony Apps Enabler 
 version=3.0.1
 versionCode=1
-author=Zenith (Magisk by matpower64)
+author=Zenith (Magisk by matpower64) and Nyarna
 description=Sony Apps Enabler is a ported version of Sony devices' framework files for any Android device. This tricks Play Store into recognizing your Android as a Sony device and therefore, allowing you to install and update Sony devices specific apps directly from Play Store.
-template=4
+minMagisk=17000
